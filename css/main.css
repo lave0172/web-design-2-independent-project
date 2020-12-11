@@ -39,10 +39,11 @@ img.icon:hover {
 }
 
 nav li.active a {
-  color: #fff;
-  border-radius: 25px;
-  padding: 0 10px;
-  background-color: #000;
+  border-bottom: 4px solid black;
+}
+
+nav li.active a:after {
+
 }
 
 nav li a {
