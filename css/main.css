@@ -177,6 +177,13 @@ h4 {
   background-size: cover;
 }
 
+.image.theatre-poster {
+  background-image: url("../images/theatre-poster.png");
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: cover;
+}
+
 
 #social-wrapper {
   list-style-type: none;
