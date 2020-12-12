@@ -157,6 +157,27 @@ h4 {
   object-fit: cover;
 }
 
+.image.shiba-inu {
+  background-image: url("../images/shiba-inu-icon.png");
+  background-repeat: no-repeat;
+  background-position: 50%;
+}
+
+.image.bear-mascot {
+  background-image: url("../images/bear-mascot.png");
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: cover;
+}
+
+.image.poster {
+  background-image: url("../images/poster.png");
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: cover;
+}
+
+
 #social-wrapper {
   list-style-type: none;
   display: flex;
@@ -298,10 +319,9 @@ strong {
   margin: 15px auto;
 }
 
-.card-container .card .image {
+.card .image {
   width: 100%;
   height: 150px;
-  background: url("");
   background-color: #fff;
 }
 
