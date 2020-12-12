@@ -42,10 +42,6 @@ nav li.active a {
   border-bottom: 4px solid black;
 }
 
-nav li.active a:after {
-
-}
-
 nav li a {
   text-decoration: none;
 }
