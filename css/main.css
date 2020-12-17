@@ -157,6 +157,14 @@ h4 {
   object-fit: cover;
 }
 
+.text-black {
+  color: #000;
+}
+
+.text-white {
+  color: #fff;
+}
+
 .image.road-signs {
   background-image: url("../images/road-signs.png");
   background-repeat: no-repeat;
