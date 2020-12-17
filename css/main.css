@@ -157,6 +157,20 @@ h4 {
   object-fit: cover;
 }
 
+.image.road-signs {
+  background-image: url("../images/road-signs.png");
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: cover;
+}
+
+.image.theatre-poster {
+  background-image: url("../images/theatre-poster.png");
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: cover;
+}
+
 .image.shiba-inu {
   background-image: url("../images/shiba-inu-icon.png");
   background-repeat: no-repeat;
@@ -165,6 +179,20 @@ h4 {
 
 .image.bear-mascot {
   background-image: url("../images/bear-mascot.png");
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: cover;
+}
+
+.image.event-poster {
+  background-image: url("../images/event-poster.png");
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: cover;
+}
+
+.image.mosquito-logo {
+  background-image: url("../images/mosquito-logo.png");
   background-repeat: no-repeat;
   background-position: 50%;
   background-size: cover;
@@ -313,7 +341,7 @@ strong {
 
 .card .image {
   width: 100%;
-  height: 150px;
+  height: 250px;
   background-color: #fff;
 }
 
